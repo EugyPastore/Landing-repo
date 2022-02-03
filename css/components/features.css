@@ -1,0 +1,28 @@
+.features {
+  display: flex;
+  justify-content: space-between;
+}
+
+.feature-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 200px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+  margin: 0px 20px;
+  padding: 20px;
+}
+
+.feature-card p {
+  opacity: 0.5;
+  margin: 16px 0px;
+}
+
+.feature-card h4 {
+  margin: 21px 0px;
+}
+
+.text-space{
+  margin: 20px 0px;
+}
